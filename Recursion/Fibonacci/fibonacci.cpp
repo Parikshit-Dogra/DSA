@@ -17,7 +17,7 @@ int fibonacci_num(int n){
 
 int main(){
     int n;
-    // cout << "Enter the number of terms: ";
+    cout << "Enter n: ";
     cin >> n;
     // cout << "Fibonacci Series: ";
     // for(int i = 0; i < n; i++){
